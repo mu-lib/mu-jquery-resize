@@ -1,0 +1,26 @@
+{
+  "name": "mu-jquery-resize",
+  "homepage": "https://github.com/mu-lib/mu-jquery-resize",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mu-lib/mu-jquery-resize.git"
+  },
+  "authors": [
+    "Mikael Karon"
+  ],
+  "description": "Micro jQuery Resize",
+  "main": "jquery.resize.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "requirejs": "~2"
+  }
+}
