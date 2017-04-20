@@ -1,0 +1,27 @@
+{
+  "name": "mu-jquery-resize",
+  "version": "0.0.1",
+  "description": "Micro jQuery Resize",
+  "main": "jquery.resize.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-lib/mu-jquery-resize.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-jquery-resize/issues"
+  },
+  "homepage": "https://github.com/mu-lib/mu-jquery-resize#readme",
+  "dependencies": {
+    "jquery": "^3||^2"
+  },
+  "devDependencies": {
+    "qunitjs": "^2.3.0",
+    "jquery": "^3.2.1",
+    "standard-version": "^4.0.0"
+  }
+}
